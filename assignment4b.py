@@ -2,7 +2,7 @@ import researchpy as rp
 import pandas as pd
 
 #load in data
-df = pd.read_csv('data.csv')
+df = pd.read_csv('data/data.csv')
 df.columns
 
 #Prints out descriptive information for DataFrame.
